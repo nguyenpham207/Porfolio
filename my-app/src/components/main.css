@@ -1,3 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;600&display=swap');
 #menu-line-div{
     text-align: center;
+}
+.nav-bar{
+    float:right;
+    margin-left: 50px;
+}
+
+
+
+.background2{
+    /* background-color:#42465b ; */
+    margin: 150px;
+}
+.background{
+    /* background-color: #42465b ; */
+    /* padding: 150px; */
+    margin: 500px;
+    /* background-color: rgba( 62, 59, 59, 0.15 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    border: 1px solid rgba( 255, 255, 255, 0.18 ); */
+}
+#main-picture{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+#brand{
+    /* font-family: Montserrat; */
+    text-align: center;
+    width: 500px;
+    padding: 10px;
+    margin: auto;
+
+}
+.role{
+    /* font-family: Montserrat; */
+}
+.edit_name{
+    color:#3b71ca;
+}
+
+.edit_name2{
+    margin: 50px;
+    /* color:#A3E4D7; */
+    color: #3b71ca;
+    padding-left:50px ;
+}
+.main-name {
+    
+    /* font-family: Montserrat; */
+    text-align: center;
+    font-size: 3rem;
+}
+.brand {
+    text-align: center;
+    max-width: 500px;
+    font-size: 1em;
+    padding-left: 25%;
+}
+.role {
+    text-align: center;
+}
+.info{
+    text-align: center; 
+}
+
+/* Project */
+.section-display{
+    display: flex;
+    flex-direction: grid    ;
+}
+.about-project{
+    font-family: Montserrat;
+    text-align: center;
+}
+#image {
+    height: 10rem;
+    
+}
+
+.display-project{
+    /* display:flex;
+    flex-direction: row;
+    align-items: center;
+    font-family: Montserrat;
+    border:3px solid #A3E4D7;
+    width: 35%;
+    padding: 100px; */
+    
+
+}
+/* Skills */
+
+  
+.section-skills{
+    text-align: center;
+    color:#3b71ca;
+}
+
+/* Info */
+.git{
+    margin-right: 1em;
+}
+.box{
+    margin-right: 1em;
+    color:#3b71ca;
+    text-decoration: none;
+    border-bottom: 0;
+    /* border:1px solid #3b71ca; */
+    
+}
+#git-click{
+    font-size: 50px;
+
+
+}
+
+.skill-icons {
+font-size: 75px;
+justify-content: space-between;
+
+}
+.python{
+    height: 75px;
+}
+/* card */
+.project-head{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: -0.5rem;
+    font-weight: 500;
+    line-height: 6.2;
+    color:#3b71ca;
+}
+.container{
+    width: auto;
+    padding-right: var(--mdb-gutter-x, 0.75rem);
+    padding-left: var(--mdb-gutter-x, 0.75rem);
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    flex-direction: row;
+    margin: 150px;
+    grid-gap: 50px;
+
+}
+.qwe{
+    margin-right: 25px;
 }
