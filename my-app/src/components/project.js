@@ -34,7 +34,7 @@ const Projects = () => {
         <MDBCardText>
         Built backend API using Mongoose and Express and deployed using Heroku and Mongo Atlas. Retrieved information from this API to build a front end React app with full CRUD functionality. 
         </MDBCardText>
-        <MDBBtn href='#'>
+        <MDBBtn href='https://github.com/nguyenpham207/React-Lux-house'>
             <i id="git-click" class="devicon-github-original-wordmark colored"></i>
         </MDBBtn>
       </MDBCardBody>
@@ -45,7 +45,7 @@ const Projects = () => {
         <MDBCardTitle>Pet-Match</MDBCardTitle>
         <MDBCardText>
         Fully functional coffee shop website with a lot of useful futures. Using Django and Python as backend and React framework for front end.         </MDBCardText>
-        <MDBBtn href='#'>
+        <MDBBtn href='https://github.com/nguyenpham207/petMatch'>
             <i id="git-click" class="devicon-github-original-wordmark colored"></i>
         </MDBBtn>
       </MDBCardBody>
@@ -57,7 +57,7 @@ const Projects = () => {
         <MDBCardText>
         Built utilizing Mongoose, Express, and React, and gained fluency in mitigating/resolving merge conflicts and workflow inefficiencies.
         </MDBCardText>
-        <MDBBtn href='#'>
+        <MDBBtn href='https://github.com/nguyenpham207/Project-2'>
             <i id="git-click" class="devicon-github-original-wordmark colored"></i>
         </MDBBtn>
       </MDBCardBody>

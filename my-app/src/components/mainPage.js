@@ -12,6 +12,7 @@ import LinkedInIcon from '@mui/icons-material/LinkedIn';
 
 
 
+
 const Main = () => {
 
 const {name, role, resume, description, github, linkedin}= about
@@ -24,7 +25,6 @@ const {name, role, resume, description, github, linkedin}= about
         <div>
         <h3 className="edit_name2">
         <ui className="nav-bar1"><a href="#home">SeanP</a></ui>
-        <ui className="nav-bar"><a href="#skills">Contact</a></ui>
         <ui className="nav-bar"><a href="#projects">Projects</a></ui>
         <ui className="nav-bar"><a href="#skills">Skills</a></ui>
         
